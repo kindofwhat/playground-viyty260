@@ -7,3 +7,7 @@ fun main(args: Array<String>) {
     println("Hello, World!")
 }
 ```
+
+```typescript
+console.log("hello world")
+```

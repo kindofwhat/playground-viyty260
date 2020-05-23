@@ -8,6 +8,6 @@ fun main(args: Array<String>) {
 }
 ```
 
-```typescript
+```typescript runnable
 console.log("hello world")
 ```
